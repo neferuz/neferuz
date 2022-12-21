@@ -1,4 +1,4 @@
-### Hi there <👋
+### Hi there 👋 width:50px;
 
 🚀 About Me
 
